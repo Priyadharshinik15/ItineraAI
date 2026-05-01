@@ -1,3 +1,9 @@
 {
-  "root": "itineraai/frontend"
+  "apps": [
+    {
+      "appId": "com.itinera.ai",
+      "root": "itineraai/frontend",
+      "webDir": "dist"
+    }
+  ]
 }
