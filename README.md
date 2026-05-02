@@ -4,7 +4,7 @@ It is used because planning a trip manually takes hours of research across multi
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 itineraai/
@@ -50,7 +50,7 @@ itineraai/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone & Setup
 
@@ -98,17 +98,17 @@ Open → **http://localhost:5173**
 
 ---
 
-## 🔑 API Keys Needed
+##  API Keys Needed
 
 | Service | Key | Free? | Link |
 |---------|-----|-------|------|
-| Groq | `GROQ_API_KEY` | ✅ Free | [console.groq.com](https://console.groq.com) |
-| Unsplash | `UNSPLASH_ACCESS_KEY` | ✅ Free | [unsplash.com/developers](https://unsplash.com/developers) |
-| Pexels | `PEXELS_API_KEY` | ✅ Free | [pexels.com/api](https://www.pexels.com/api/) |
+| Groq | `GROQ_API_KEY` |  Free | [console.groq.com](https://console.groq.com) |
+| Unsplash | `UNSPLASH_ACCESS_KEY` |  Free | [unsplash.com/developers](https://unsplash.com/developers) |
+| Pexels | `PEXELS_API_KEY` |  Free | [pexels.com/api](https://www.pexels.com/api/) |
 
 ---
 
-## 🌐 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -157,14 +157,14 @@ Appflow_dashboard:https://dashboard.ionicframework.com/app/cef1d99e/getting-star
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌍 20-language travel plans
-- 🏨 Budget / Mid / Luxury hotel recommendations
-- 🖼️ Real city & place images (Unsplash/Pexels)
-- 📅 Day-wise personalized itinerary
-- 💰 Budget analysis (Low / Medium / High)
-- 📄 Downloadable PDF report
-- 🔐 Login / Register with JWT
-- 👤 Profile settings page
-- 📱 Mobile-ready (Capacitor → Android APK)
+-  20+-language travel plans
+-  Budget / Mid / Luxury hotel recommendations
+-  Real city & place images (Unsplash/Pexels)
+-  Day-wise personalized itinerary
+-  Budget analysis (Low / Medium / High)
+-  Downloadable PDF report
+-  Login / Register with JWT
+-  Profile settings page
+  
