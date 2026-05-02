@@ -1,6 +1,6 @@
 # ✈️ ItineraAI — AI Travel Planner
 
-> **ItineraAI** is used because planning a trip manually takes hours of research across multiple websites — comparing hotels, checking visa rules, finding attractions, and building an itinerary. It solves this by automating everything in one place, generating a complete travel plan in minutes with real hotel recommendations, budget breakdowns, day-by-day schedules, and local tips. It's especially useful for travelers who want a personalized, ready-to-use plan in their own language without paying for expensive travel agents.
+**ItineraAI** is used because planning a trip manually takes hours of research across multiple websites — comparing hotels, checking visa rules, finding attractions, and building an itinerary. It solves this by automating everything in one place, generating a complete travel plan in minutes with real hotel recommendations, budget breakdowns, day-by-day schedules, and local tips. It's especially useful for travelers who want a personalized, ready-to-use plan in their own language without paying for expensive travel agents.
 
 ---
 
