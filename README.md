@@ -100,19 +100,6 @@ OLLAMA_MODEL=llama3.2
 
 Then in `backend/services/ai_service.py`, the provider switch handles this automatically.
 
----
-
-## 📱 Android APK (Capacitor)
-
-```bash
-cd frontend
-npm run build
-npx cap add android
-npx cap sync
-npx cap open android
-# Build APK in Android Studio
-Appflow_dashboard:https://dashboard.ionicframework.com/app/cef1d99e/getting-started
-```
 
 ---
 
