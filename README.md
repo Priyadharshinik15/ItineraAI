@@ -6,51 +6,6 @@ It uses Groq’s LLaMA 3 along with three intelligent agents—Location Expert, 
 
 The platform generates day-by-day itineraries, budget breakdowns, and travel suggestions in 20+ languages, making it ideal for users who want a ready-to-use, personalized travel plan without relying on expensive travel agents.
 
----
-
-##  Project Structure
-
-```
-itineraai/
-├── frontend/                   # React + Vite + Tailwind
-│   ├── src/
-│   │   ├── pages/
-│   │   │   ├── LandingPage.jsx      # Hero + About + How to Use
-│   │   │   ├── LoginPage.jsx        # Login form
-│   │   │   ├── RegisterPage.jsx     # Register form
-│   │   │   ├── InputPage.jsx        # Trip details form
-│   │   │   └── ReportPage.jsx       # 3 report tabs + download
-│   │   ├── components/
-│   │   │   ├── Navbar.jsx           # Persistent navbar
-│   │   │   ├── Footer.jsx
-│   │   │   └── ProtectedRoute.jsx
-│   │   ├── context/
-│   │   │   └── AuthContext.jsx      # Login/logout state
-│   │   ├── hooks/
-│   │   │   └── useTravel.js
-│   │   └── utils/
-│   │       └── api.js               # FastAPI calls
-│   ├── index.html
-│   ├── vite.config.js
-│   ├── tailwind.config.js
-│   └── package.json
-│
-├── backend/                    # FastAPI + Groq + SQLite
-│   ├── main.py                      # FastAPI app entry
-│   ├── routers/
-│   │   ├── auth.py                  # Login / Register
-│   │   └── travel.py                # AI plan generation
-│   ├── services/
-│   │   ├── ai_service.py            # Groq / LLaMA calls
-│   │   ├── image_service.py         # Unsplash / Pexels
-│   │   └── pdf_service.py           # ReportLab PDF
-│   ├── models.py                    # SQLite models
-│   ├── database.py
-│   ├── requirements.txt
-│   └── .env.example
-│
-└── README.md
-```
 
 ---
 
