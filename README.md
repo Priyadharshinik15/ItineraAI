@@ -6,7 +6,7 @@ It uses Groq’s LLaMA 3 along with three intelligent agents—Location Expert, 
 
 The platform generates day-by-day itineraries, budget breakdowns, and travel suggestions in 20+ languages, making it ideal for users who want a ready-to-use, personalized travel plan without relying on expensive travel agents.
 
-
+---
 
 ##  Project Structure
 
