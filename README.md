@@ -12,17 +12,17 @@ The platform generates day-by-day itineraries, budget breakdowns, and travel sug
 
 | Feature                        | Description                                                  |
 | ------------------------------ | ------------------------------------------------------------ |
-| 🌍 Multi-language Travel Plans | 20+ languages support (Groq LLaMA 3)                         |
-| 🤖 AI Travel Agents            | Location Expert, City Guide, Travel Planner (Groq + LLaMA 3) |
-| 🔍 Real-time Search            | DuckDuckGo Search Tool for live travel data                  |
-| 🏨 Hotel Suggestions           | Budget, Mid-range, Luxury recommendations                    |
-| 🗺️ Personalized Itinerary     | Day-wise travel planning                                     |
-| 📡 Live Insights               | Updated attractions and local information                    |
-| 💰 Budget Analysis             | Low / Medium / High cost estimation                          |
-| 📸 Image Integration           | Unsplash / Pexels APIs                                       |
-| 📄 PDF Report                  | Downloadable travel plan report                              |
-| 🔐 Authentication              | JWT-based login/register system                              |
-| 👤 User Profile                | Manage preferences and saved data                            |
+|  Multi-language Travel Plans | 20+ languages support (Groq LLaMA 3)                         |
+|  AI Travel Agents            | Location Expert, City Guide, Travel Planner (Groq + LLaMA 3) |
+|  Real-time Search            | DuckDuckGo Search Tool for live travel data                  |
+|  Hotel Suggestions           | Budget, Mid-range, Luxury recommendations                    |
+|  Personalized Itinerary     | Day-wise travel planning                                     |
+|  Live Insights               | Updated attractions and local information                    |
+|  Budget Analysis             | Low / Medium / High cost estimation                          |
+|  Image Integration           | Unsplash / Pexels APIs                                       |
+|  PDF Report                  | Downloadable travel plan report                              |
+|  Authentication              | JWT-based login/register system                              |
+|  User Profile                | Manage preferences and saved data                            |
 
 ---
 
