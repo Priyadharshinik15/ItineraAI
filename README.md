@@ -8,7 +8,8 @@ The platform generates day-by-day itineraries, budget breakdowns, and travel sug
 
 
 ---
-##Features
+##  Features
+
 | Feature                        | Description                                                  |
 | ------------------------------ | ------------------------------------------------------------ |
 | 🌍 Multi-language Travel Plans | 20+ languages support (Groq LLaMA 3)                         |
@@ -119,14 +120,4 @@ Then in `backend/services/ai_service.py`, the provider switch handles this autom
 
 ---
 
-##  Features
 
--  20+-language travel plans
--  Budget / Mid / Luxury hotel recommendations
--  Real city & place images (Unsplash/Pexels)
--  Day-wise personalized itinerary
--  Budget analysis (Low / Medium / High)
--  Downloadable PDF report
--  Login / Register with JWT
--  Profile settings page
-  
