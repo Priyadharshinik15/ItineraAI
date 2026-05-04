@@ -2,12 +2,11 @@
 
 ItineraAI is an AI-powered travel planner that eliminates hours of manual trip research. Instead of browsing multiple websites for hotels, attractions, visa rules, and itineraries, it generates a complete, personalized travel plan in minutes.
 
-Using Groq’s LLaMA 3 and intelligent agents (Location Expert, City Guide, Travel Planner) powered by DuckDuckGo search, the system delivers real-time, accurate travel insights including hotel recommendations, budget breakdowns, and day-by-day itineraries in 20+ languages.
+It uses Groq’s LLaMA 3 along with three intelligent agents—Location Expert, City Guide, and Travel Planner—powered by the DuckDuckGo Search Tool to fetch real-time web data. This ensures accurate and up-to-date recommendations for hotels, attractions, and travel insights.
 
-It’s ideal for travelers who want a ready-to-use, customized travel plan without relying on expensive travel agents.
+The platform generates day-by-day itineraries, budget breakdowns, and travel suggestions in 20+ languages, making it ideal for users who want a ready-to-use, personalized travel plan without relying on expensive travel agents.
 
 
----
 
 ##  Project Structure
 
