@@ -1,7 +1,10 @@
 # ✈️ ItineraAI — AI Travel Planner
 
-> **Premium AI-powered travel planner** using React + FastAPI + Groq (LLaMA 3) with beautiful UI, free images, PDF download, and 20-language support.
+ItineraAI is an AI-powered travel planner that eliminates hours of manual trip research. Instead of browsing multiple websites for hotels, attractions, visa rules, and itineraries, it generates a complete, personalized travel plan in minutes.
 
+It uses Groq’s LLaMA 3 along with three intelligent agents—Location Expert, City Guide, and Travel Planner—powered by the DuckDuckGo Search Tool to fetch real-time web data. This ensures accurate and up-to-date recommendations for hotels, attractions, and travel insights.
+
+The platform generates day-by-day itineraries, budget breakdowns, and travel suggestions in 20+ languages, making it ideal for users who want a ready-to-use, personalized travel plan without relying on expensive travel agents.
 ---
 
 ## 🗂️ Project Structure
