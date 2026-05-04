@@ -6,7 +6,6 @@ from crewai.tools import tool
 from langchain_community.tools import DuckDuckGoSearchResults
 import os
 
-# ─── Page Config ──────────────────────────────────────────────────────────────
 
 st.set_page_config(
     page_title="🌍 AI Travel Planner",
